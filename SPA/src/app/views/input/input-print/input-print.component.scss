@@ -1,0 +1,13 @@
+.width-input {
+    width: 60px !important;
+}
+
+.btn-submit {
+    padding-left: 20px;
+}
+input[type=number] {
+    height: 50px;
+}
+input[type=number]::-webkit-inner-spin-button {
+    height: 50px;
+}
